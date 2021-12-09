@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Tailwind CSS headless ui
+
+Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+![Alt text](/public/images/img1.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
