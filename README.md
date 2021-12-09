@@ -2,7 +2,7 @@
 
 Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
-![Alt text](/public/images/img1.png)
+![Alt text](/public/img1.png)
 
 ## Getting Started with Create React App
 
